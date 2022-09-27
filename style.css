@@ -713,7 +713,7 @@ h2 {
     line-height: 1.4em;
 }
 
-h3 {
+.maj {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
@@ -746,9 +746,7 @@ h4 {
     color: #fff!important;
 }
 
-.size{
-    min-width: 48px;
-}
+
 
 .portfolio-thumb {
     margin-bottom: 24px;
